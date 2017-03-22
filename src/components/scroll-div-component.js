@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import Styles from './component-styles.js';
+import Styles from './component-styles/component-styles.js';
 
 export default class ScrollDiv extends Component {
 	constructor(props){

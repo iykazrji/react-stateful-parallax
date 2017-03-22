@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 // Import Relevant Syles
-import Styles from './component-styles.js';
+import Styles from './component-styles/component-styles.js';
 
 import ScrollDiv from './scroll-div-component.js';
 
