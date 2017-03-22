@@ -1,0 +1,8 @@
+/node_modules
+/env_config
+bundle.js
+npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
